@@ -1,0 +1,5 @@
+/home/docker/Shared/QtProject/build/CMakeFiles/MyQtApp.dir
+/home/docker/Shared/QtProject/build/CMakeFiles/edit_cache.dir
+/home/docker/Shared/QtProject/build/CMakeFiles/rebuild_cache.dir
+/home/docker/Shared/QtProject/build/CMakeFiles/MyQtApp_autogen_timestamp_deps.dir
+/home/docker/Shared/QtProject/build/CMakeFiles/MyQtApp_autogen.dir
