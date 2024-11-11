@@ -3,7 +3,7 @@
 Implementasi beberapa algoritma local search (Varian Hill Climbing, Simulated Annealing, dan Genetic Algorithm) & performance measuring dari algoritma tersebut untuk permasalahan diagonal magic cube 5x5x5
 
 <p align="center">
-    <img src="images/cube.png" alt="Cube" width="300"/><br>
+    <img src="cube.png" alt="Cube" width="300"/><br>
     Gambar Diagonal Magic Cube 5x5x5 <br>
     (Sumber: <a href="https://www.trump.de/magic-squares/magic-cubes/cubes-1.html">https://www.trump.de/magic-squares/magic-cubes/cubes-1.html</a>)
 </p>
